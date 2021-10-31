@@ -11,7 +11,7 @@
 
 Windows / Linux / Mac
 
-[Hello World](#Windows-/-Linux-/-Mac)
+[Hello World](#Windows / Linux / Mac)
 ## 简介
 这个仓库主要收集一些好用优秀的Flutter插件汇总收集，主要偏向于开发者及日常使用。
 
